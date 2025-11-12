@@ -12,6 +12,12 @@ The project focuses only on the **retrieval** part (no LLM, no answer generation
 
 ---
 
+## Requirements
+
+- Python 3.10+  
+No external dependencies are required (standard library only).
+
+
 ## Repository structure
 
 ```text
