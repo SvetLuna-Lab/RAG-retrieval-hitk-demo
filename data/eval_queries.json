@@ -1,0 +1,17 @@
+[
+  {
+    "id": "q1",
+    "query": "components of a RAG pipeline",
+    "relevant_docs": ["doc1.txt"]
+  },
+  {
+    "id": "q2",
+    "query": "simple metrics to evaluate RAG",
+    "relevant_docs": ["doc2.txt"]
+  },
+  {
+    "id": "q3",
+    "query": "evaluation harness for RAG",
+    "relevant_docs": ["doc2.txt", "doc3.txt"]
+  }
+]
